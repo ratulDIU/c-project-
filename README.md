@@ -1,2 +1,2 @@
-# c-project-
+# c++ project-
 This is my first project
